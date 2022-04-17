@@ -8,6 +8,8 @@ import 'package:digiquran/utils/models/doa/doa.dart';
 import 'package:digiquran/utils/models/list-surah.dart';
 import 'package:digiquran/utils/models/niat-shalat/niat-shalat.dart';
 import 'package:digiquran/utils/models/niat-shalat/niat-shalat-list.dart';
+import 'package:digiquran/utils/models/quran/quran.dart';
+import 'package:digiquran/utils/models/quran/verse.dart';
 import 'package:digiquran/utils/models/shalat/shalat-datetime.dart';
 import 'package:digiquran/utils/models/shalat/shalat-result.dart';
 import 'package:digiquran/utils/models/shalat/shalat-time.dart';
@@ -39,6 +41,10 @@ void main() async {
   Hive.registerAdapter(ModelSurahAdapter());
   Hive.registerAdapter(ModelListSurahAdapter());
   Hive.registerAdapter(ModelAyahAdapter());
+
+  //Quran Juz
+  Hive.registerAdapter(ModelQuranAdapter());
+  Hive.registerAdapter(ModelVerseAdapter());
   
   //doa harian
   Hive.registerAdapter(ModelDoaAdapter());
