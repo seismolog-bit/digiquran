@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "start_text": "Al-Fatihah 1",
+        "end_text": "Al-Baqarah 141",
+        "text": "بِسْمِ اللّٰهِ",
+        "juz_id": 1,
+        "surah_id": 1
+    },
+    {
+        "id": 2,
+        "start_text": "Al-Baqarah 142",
+        "end_text": "Al-Baqarah 252",
+        "text": "سَيَقُوْلُ السُّفَهَاۤءُ",
+        "juz_id": 2,
+        "surah_id": 2
+    },
+    {
+        "id": 3,
+        "start_text": "Al-Baqarah 253",
+        "end_text": "Ali 'Imran 91",
+        "text": "تِلْكَ الرُّسُلُ",
+        "juz_id": 3,
+        "surah_id": 2
+    },
+    {
+        "id": 4,
+        "start_text": "Ali 'Imran 92",
+        "end_text": "An-Nisa' 23",
+        "text": "لَنْ تَنَالُوا الْبِرَّ",
+        "juz_id": 4,
+        "surah_id": 3
+    },
+    {
+        "id": 5,
+        "start_text": "An-Nisa' 24",
+        "end_text": "An-Nisa' 147",
+        "text": "وَالْمُحْصَنٰتُ",
+        "juz_id": 5,
+        "surah_id": 4
+    },
+    {
+        "id": 6,
+        "start_text": "An-Nisa' 148",
+        "end_text": "Al-Ma'idah 82",
+        "text": "لَا يُحِبُّ اللّٰهُ",
+        "juz_id": 6,
+        "surah_id": 4
+    },
+    {
+        "id": 7,
+        "start_text": "Al-Ma'idah 83",
+        "end_text": "Al-An'am 110",
+        "text": "وَاِذَا سَمِعُوْا",
+        "juz_id": 7,
+        "surah_id": 5
+    },
+    {
+        "id": 8,
+        "start_text": "Al-An'am 111",
+        "end_text": "Al-A'raf 87",
+        "text": "وَلَوْ اَنَّنَا نَزَّلْنَآ",
+        "juz_id": 8,
+        "surah_id": 6
+    },
+    {
+        "id": 9,
+        "start_text": "Al-A'raf 88",
+        "end_text": "Al-Anfal 40",
+        "text": "قَالَ الْمَلَاُ الَّذِيْنَ",
+        "juz_id": 9,
+        "surah_id": 7
+    },
+    {
+        "id": 10,
+        "start_text": "Al-Anfal 41",
+        "end_text": "At-Taubah 93",
+        "text": "وَاعْلَمُوْٓا اَنَّمَا",
+        "juz_id": 10,
+        "surah_id": 8
+    },
+    {
+        "id": 11,
+        "start_text": "At-Taubah 94",
+        "end_text": "Hud 5",
+        "text": "يَعْتَذِرُوْنَ اِلَيْكُمْ",
+        "juz_id": 11,
+        "surah_id": 9
+    },
+    {
+        "id": 12,
+        "start_text": "Hud 6",
+        "end_text": "Yusuf 52",
+        "text": "وَمَا مِنْ دَاۤبَّةٍ",
+        "juz_id": 12,
+        "surah_id": 11
+    },
+    {
+        "id": 13,
+        "start_text": "Yusuf 53",
+        "end_text": "Al-Hijr 1",
+        "text": "وَمَآ اُبَرِّئُ نَفْسِيْۚ",
+        "juz_id": 13,
+        "surah_id": 12
+    },
+    {
+        "id": 14,
+        "start_text": "Al-Hijr 2",
+        "end_text": "An-Nahl 128",
+        "text": "رُبَمَا يَوَدُّ الَّذِيْنَ",
+        "juz_id": 14,
+        "surah_id": 15
+    },
+    {
+        "id": 15,
+        "start_text": "Al-Isra' 1",
+        "end_text": "Al-Kahf 74",
+        "text": "سُبْحٰنَ الَّذِيْٓ",
+        "juz_id": 15,
+        "surah_id": 17
+    },
+    {
+        "id": 16,
+        "start_text": "Al-Kahf 75",
+        "end_text": "Thaha 135",
+        "text": "قَالَ اَلَمْ اَقُلْ",
+        "juz_id": 16,
+        "surah_id": 18
+    },
+    {
+        "id": 17,
+        "start_text": "Al-Anbiya' 1",
+        "end_text": "Al-Hajj 78",
+        "text": "اِقْتَرَبَ لِلنَّاسِ",
+        "juz_id": 17,
+        "surah_id": 21
+    },
+    {
+        "id": 18,
+        "start_text": "Al-Mu'minun 1",
+        "end_text": "Al-Furqan 20",
+        "text": "قَدْ اَفْلَحَ",
+        "juz_id": 18,
+        "surah_id": 23
+    },
+    {
+        "id": 19,
+        "start_text": "Al-Furqan 21",
+        "end_text": "An-Naml 59",
+        "text": "وَقَالَ الَّذِيْنَ",
+        "juz_id": 19,
+        "surah_id": 25
+    },
+    {
+        "id": 20,
+        "start_text": "An-Naml 60",
+        "end_text": "Al-'Ankabut 44",
+        "text": "اَمَّنْ خَلَقَ",
+        "juz_id": 20,
+        "surah_id": 27
+    },
+    {
+        "id": 21,
+        "start_text": "Al-'Ankabut 45",
+        "end_text": "Al-Ahzab 30",
+        "text": "اُتْلُ مَآ اُوْحِيَ",
+        "juz_id": 21,
+        "surah_id": 29
+    },
+    {
+        "id": 22,
+        "start_text": "Al-Ahzab 31",
+        "end_text": "Yasin 21",
+        "text": "وَمَنْ يَّقْنُتْ",
+        "juz_id": 22,
+        "surah_id": 33
+    },
+    {
+        "id": 23,
+        "start_text": "Yasin 22",
+        "end_text": "Az-Zumar 31",
+        "text": "وَمَا لِيَ لَآ اَعْبُدُ",
+        "juz_id": 23,
+        "surah_id": 36
+    },
+    {
+        "id": 24,
+        "start_text": "Az-Zumar 32",
+        "end_text": "Fushshilat 46",
+        "text": "فَمَنْ اَظْلَمُ",
+        "juz_id": 24,
+        "surah_id": 39
+    },
+    {
+        "id": 25,
+        "start_text": "Fushshilat 47",
+        "end_text": "Al-Jatsiyah 37",
+        "text": "اِلَيْهِ يُرَدُّ",
+        "juz_id": 25,
+        "surah_id": 41
+    },
+    {
+        "id": 26,
+        "start_text": "Al-Ahqaf 1",
+        "end_text": "Adz-Dzariyat 30",
+        "text": "حٰمۤۚ ",
+        "juz_id": 26,
+        "surah_id": 46
+    },
+    {
+        "id": 27,
+        "start_text": "Adz-Dzariyat 31",
+        "end_text": "Al-Hadid 29",
+        "text": "قَالَ فَمَا خَطْبُكُمْ",
+        "juz_id": 27,
+        "surah_id": 51
+    },
+    {
+        "id": 28,
+        "start_text": "Al-Mujadalah 1",
+        "end_text": "At-Tahrim 12",
+        "text": "قَدْ سَمِعَ اللّٰهُ",
+        "juz_id": 28,
+        "surah_id": 58
+    },
+    {
+        "id": 29,
+        "start_text": "Al-Mulk 1",
+        "end_text": "Al-Mursalat 50",
+        "text": "تَبٰرَكَ الَّذِيْ",
+        "juz_id": 29,
+        "surah_id": 67
+    },
+    {
+        "id": 30,
+        "start_text": "An-Naba' 1",
+        "end_text": "An-Nas 6",
+        "text": "عَمَّ يَتَسَاۤءَلُوْنَۚ",
+        "juz_id": 30,
+        "surah_id": 78
+    }
+]
